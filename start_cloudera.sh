@@ -19,4 +19,4 @@ docker run \
 -p 8042:8042 \
 -p 60010:60010 \
 semantix/cloudera_quickstart:1.0 \
-bin/bash #/usr/bin/docker-quickstart #bin/bash 
+bin/bash
